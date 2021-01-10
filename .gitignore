@@ -1,3 +1,9 @@
 *checkpoint*
 nohup.out
 .virtual_documents/*
+.cache/*
+.jupyter/*
+.local/*
+.npm/*
+.ipython/*
+.python_history
