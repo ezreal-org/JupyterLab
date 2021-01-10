@@ -7,3 +7,4 @@ nohup.out
 .npm/*
 .ipython/*
 .python_history
+.bash_history
