@@ -24,3 +24,18 @@ vi .bash_history
 vi .gitignore 
 git add .
 ls -l
+vim
+yum install vim
+yum
+apt
+apt-get install vim
+clear
+vi .gitignore 
+vi .gitignore 
+vi .gitignore 
+git add .
+ls -l
+vi .gitignore 
+git add .
+vi .gitignore 
+git add .
