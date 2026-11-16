@@ -5,7 +5,7 @@ import (
 	"testing"
 )
 
-func TestBubbleSort(t *testing.T) {
+func TestBubbleSort1(t *testing.T) {
 	tests := []struct {
 		name string
 		nums []int
